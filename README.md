@@ -11,11 +11,17 @@ Pull these scripts into the directory that you need and execute it. The only dep
 
 ### Checksums
 
+**GoogleIMA**
 ```
 dd7c063625812961daec38c74169666699b5c2b8796951dc2cd18421955a8d8a  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleIMA/3.11.4/GoogleInteractiveMediaAds.xcframework.zip
 5646200f213c354b9723ad519ccd5921cdf4269153e6dcff81c6fe1b492adb07  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleIMA/3.12.1/GoogleInteractiveMediaAds.xcframework.zip
 bedbc4913c2e20805f1ec90718eb88936e23a7fa20291f033876a3598f339c1d  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleIMA/3.13.0/GoogleInteractiveMediaAds.xcframework.zip
 d1ba9107b92f1b3cd9d8761e0647d2d38bce6635e188bf96cfe6371f54f536d7  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleIMA/3.9.0/GoogleInteractiveMediaAds.xcframework.zip
+```
+
+**GoogleMobileAds**
+For the latest version (with xcframework support) please use: https://developers.google.com/admob/ios/download
+```
 9b5845f6855c106345b09cc227431d93a903729db055a8143f47461019096d5d  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.30.0-1/GoogleMobileAds.xcframework.zip
 53ecc2390b2b3e9a328370f3cdd130f1b49c8c22e87ef08f7f4286d24b07e2bb  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.61.0/GoogleMobileAds.xcframework.zip
 6e2786370116cb5868a2917f989c6d3581265b6a258b9a33f34455c0b256557c  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.64.0/GoogleMobileAds.xcframework.zip
