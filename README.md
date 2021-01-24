@@ -20,7 +20,7 @@ d1ba9107b92f1b3cd9d8761e0647d2d38bce6635e188bf96cfe6371f54f536d7  https://github
 ```
 
 **GoogleMobileAds**
-For the latest version (with xcframework support) please use: https://developers.google.com/admob/ios/download
+For the latest version (with xcframework support) please use: https://developers.google.com/admob/ios/download and add it to this repo including sha256 checksum for version keeping
 ```
 9b5845f6855c106345b09cc227431d93a903729db055a8143f47461019096d5d  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.30.0-1/GoogleMobileAds.xcframework.zip
 53ecc2390b2b3e9a328370f3cdd130f1b49c8c22e87ef08f7f4286d24b07e2bb  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.61.0/GoogleMobileAds.xcframework.zip
@@ -31,4 +31,5 @@ ef03c93e912aceaf04b21aa9ebc9a75aac0ff410018d64d7ce203f60052d18b2  https://github
 4e83b74f617b8966e502559415a99bcc9f8af5e4d56ba52edb79c23be7ee3ef0  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.68.0/PromisesObjC.xcframework.zip
 e38c31d98744581faba31e3e02127de28af8c9aa78cce3f0e80bee364bf9cfd6  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.68.0/UserMessagingPlatform.xcframework.zip
 9f8f5dda33e6527412270233150e6ba676c747d65218186bf9c0d8c938a53937  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.68.0/nanopb.xcframework.zip
+a642be93775477447e098bf7f1e645991b1f6ffc377faa6f97fc251bb1c79228  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/googlemobileadssdkios.zip
 ```
