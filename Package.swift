@@ -10,6 +10,7 @@ let package = Package(
         .library(name: "PromisesObjC", targets: ["PromisesObjC"]),
         .library(name: "UserMessagingPlatform", targets: ["UserMessagingPlatform"]),
         .library(name: "nanopb", targets: ["nanopb"]),
+        .library(name: "GoogleInteractiveMediaAds", targets: ["GoogleInteractiveMediaAds"]),
     ],
     dependencies: [],
     targets: [
@@ -37,5 +38,9 @@ let package = Package(
             name: "nanopb",
             path: "GoogleMobileAds/7.69.0/nanopb.xcframework"
         ),
+        .binaryTarget(
+            name: "GoogleInteractiveMediaAds",
+            path: "GoogleIMA/3.13.0/GoogleInteractiveMediaAds.xcframework"
+        )
     ]
 )
