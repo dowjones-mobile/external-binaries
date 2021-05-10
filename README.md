@@ -13,16 +13,16 @@ Pull these scripts into the directory that you need and execute it. The only dep
 
 **GoogleIMA**
 ```
-ea001cf166cfe0685fd9cd746aafadcfb1d87030fb2fb5b1489cfdaf0e09096f  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleIMA/3.13.0/GoogleInteractiveMediaAds.xcframework.zip
+82b4f70742640d276a10f5fcf9bc71ca9c2ba7f898534fb5fb970b273d526e8d  GoogleIMA/3.13.0/GoogleInteractiveMediaAds.xcframework.zip
 ```
 
 **GoogleMobileAds**
 For the latest version (with xcframework support) please use: https://developers.google.com/admob/ios/download and add it to this repo including sha256 checksum for version keeping
 ```
-6d3dc48f9bc8b09753439e1bb24d5cb2d69980e0e6a7b470197e614d53b6f351  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/GoogleAppMeasurement.xcframework.zip
-f9bca1734dde61527cbc22c21a89885b8788e14244a63f83a07fc835e608d939  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/GoogleMobileAds.xcframework.zip
-8a9ee421493df2f5930a922ec29e81b22ff24819e18975fd0bb2ad0f34da2b39  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/GoogleUtilities.xcframework.zip
-63d9a97503feb6a64eef0208c8f8e7dbc39fddad00fd5387dae5a01946f2f767  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/PromisesObjC.xcframework.zip
-57387f5d2379a35593af6960b88fc0fc23eb8c165316076283d7ea613292eaf2  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/UserMessagingPlatform.xcframework.zip
-909d056768877840850915fa7e73681962cdc772a674ea0777d4606258785c25  https://github.com/dowjones-mobile/external-binaries/raw/master/GoogleMobileAds/7.69.0/nanopb.xcframework.zip
+55adfca3195385a334adf5ed758a4fb0805ec3a35abe5ea9fffcf507cd2090cd  GoogleMobileAds/7.69.0/GoogleAppMeasurement.xcframework.zip
+7fad1e8b61bb15e9b7e3865c3f97fbc2b1f32bc42ef3ed01760ebbd98673fe40  GoogleMobileAds/7.69.0/GoogleMobileAds.xcframework.zip
+78b932eace1d7a7a53042c9bfa4cc7645a79222f2a1ad390d9903afc8ff111f8  GoogleMobileAds/7.69.0/GoogleUtilities.xcframework.zip
+b649ef1585b035e8e0a1b2094f6d21e9655a74ef2e33d2c480026de17b125304  GoogleMobileAds/7.69.0/PromisesObjC.xcframework.zip
+941b57ab9210c28b04f14d4b3c40cd5544ab7810bdd7e24e1c577fac3548f353  GoogleMobileAds/7.69.0/UserMessagingPlatform.xcframework.zip
+7efa6ae0103c3d701ab2dc3948bf0fe2397d5d4d8a97d142c330c6caac2aa0be  GoogleMobileAds/7.69.0/nanopb.xcframework.zip
 ```
