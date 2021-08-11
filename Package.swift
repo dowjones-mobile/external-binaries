@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMobileAds",
-            path: "GoogleMobileAds/8.8.0/GoogleMobileAds.xcframework"
+            path: "GoogleMobileAds/7.69.0/GoogleMobileAds.xcframework"
         ),
         .binaryTarget(
             name: "GoogleAppMeasurement",
