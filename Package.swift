@@ -16,15 +16,15 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMobileAds",
-            path: "GoogleMobileAds/8.8.0/GoogleMobileAds.xcframework"
+            path: "GoogleMobileAds/10.12.0/GoogleMobileAds.xcframework"
         ),
         .binaryTarget(
             name: "GoogleAppMeasurement",
-            path: "GoogleMobileAds/7.69.0/GoogleAppMeasurement.xcframework"
+            path: "GoogleMobileAds/10.12.0/GoogleAppMeasurement.xcframework"
         ),
         .binaryTarget(
             name: "GoogleUtilities",
-            path: "GoogleMobileAds/7.69.0/GoogleUtilities.xcframework"
+            path: "GoogleMobileAds/10.12.0/GoogleUtilities.xcframework"
         ),
         .binaryTarget(
             name: "PromisesObjC",
@@ -32,11 +32,11 @@ let package = Package(
         ),
         .binaryTarget(
             name: "UserMessagingPlatform",
-            path: "GoogleMobileAds/7.69.0/UserMessagingPlatform.xcframework"
+            path: "GoogleMobileAds/10.12.0/UserMessagingPlatform.xcframework"
         ),
         .binaryTarget(
             name: "nanopb",
-            path: "GoogleMobileAds/7.69.0/nanopb.xcframework"
+            path: "GoogleMobileAds/10.12.0/nanopb.xcframework"
         ),
         .binaryTarget(
             name: "GoogleInteractiveMediaAds",
