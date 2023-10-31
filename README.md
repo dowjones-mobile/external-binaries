@@ -19,10 +19,10 @@ Pull these scripts into the directory that you need and execute it. The only dep
 **GoogleMobileAds**
 For the latest version (with xcframework support) please use: https://developers.google.com/admob/ios/download and add it to this repo including sha256 checksum for version keeping
 ```
-55adfca3195385a334adf5ed758a4fb0805ec3a35abe5ea9fffcf507cd2090cd  GoogleMobileAds/7.69.0/GoogleAppMeasurement.xcframework.zip
-7fad1e8b61bb15e9b7e3865c3f97fbc2b1f32bc42ef3ed01760ebbd98673fe40  GoogleMobileAds/7.69.0/GoogleMobileAds.xcframework.zip
-78b932eace1d7a7a53042c9bfa4cc7645a79222f2a1ad390d9903afc8ff111f8  GoogleMobileAds/7.69.0/GoogleUtilities.xcframework.zip
+0e498fd70b8d82714bffde0e4a6973481f64e2b7f7d69ee0a776b7e17d32e9fa  GoogleMobileAds/10.12.0/GoogleAppMeasurement.xcframework.zip
+08603358d510e4adc433947a3d4db1372ec9234205c0d9688393f9776e90a532  GoogleMobileAds/10.12.0/GoogleMobileAds.xcframework.zip
+f8b0f43966678b3ee057dc4fd4e344a07312bfbdf6bc2ca96667656eaf3791e5  GoogleMobileAds/10.12.0/GoogleUtilities.xcframework.zip
+3d268db693a6eab7b0908d7060e3a25ef8c26e385cdafa817a2f3813b3df0f8c  GoogleMobileAds/10.12.0/UserMessagingPlatform.xcframework.zip
+3d0972564ded4c55826a8be3359674d75dda55b0a51586d062c4ce591fe606c3  GoogleMobileAds/10.12.0/nanopb.xcframework.zip
 b649ef1585b035e8e0a1b2094f6d21e9655a74ef2e33d2c480026de17b125304  GoogleMobileAds/7.69.0/PromisesObjC.xcframework.zip
-941b57ab9210c28b04f14d4b3c40cd5544ab7810bdd7e24e1c577fac3548f353  GoogleMobileAds/7.69.0/UserMessagingPlatform.xcframework.zip
-7efa6ae0103c3d701ab2dc3948bf0fe2397d5d4d8a97d142c330c6caac2aa0be  GoogleMobileAds/7.69.0/nanopb.xcframework.zip
 ```
