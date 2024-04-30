@@ -26,3 +26,9 @@ f8b0f43966678b3ee057dc4fd4e344a07312bfbdf6bc2ca96667656eaf3791e5  GoogleMobileAd
 3d0972564ded4c55826a8be3359674d75dda55b0a51586d062c4ce591fe606c3  GoogleMobileAds/10.12.0/nanopb.xcframework.zip
 b649ef1585b035e8e0a1b2094f6d21e9655a74ef2e33d2c480026de17b125304  GoogleMobileAds/7.69.0/PromisesObjC.xcframework.zip
 ```
+
+**Boltive**
+
+```
+96506a305e6658f26c619b9210de9ebfc5b58c2e5a1976f0f7aa8528fc7c769a Boltive/Boltive.xcframework.zip
+```
