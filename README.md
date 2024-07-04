@@ -32,3 +32,10 @@ b649ef1585b035e8e0a1b2094f6d21e9655a74ef2e33d2c480026de17b125304  GoogleMobileAd
 ```
 96506a305e6658f26c619b9210de9ebfc5b58c2e5a1976f0f7aa8528fc7c769a Boltive/Boltive.xcframework.zip
 ```
+
+**AmazonTAM**
+
+Version 4.9.5:
+```
+0640578377edd124f9b7de6ff4a6de66877e03e396b30acf91373e775bc159bc AmazonTAM/DTBiOSSDK.xcframework.zip
+```
