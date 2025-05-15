@@ -37,7 +37,7 @@ b649ef1585b035e8e0a1b2094f6d21e9655a74ef2e33d2c480026de17b125304  GoogleMobileAd
 
 v4.9.5:
 ```
-0640578377edd124f9b7de6ff4a6de66877e03e396b30acf91373e775bc159bc AmazonTAM/v4.9.5/DTBiOSSDK.xcframework.zip
+0640578377edd124f9b7de6ff4a6de66877e03e396b30acf91373e775bc159bc AmazonTAM/DTBiOSSDK.xcframework.zip
 ```
 v5.2.0:
 ```
