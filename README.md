@@ -43,3 +43,10 @@ v5.2.0:
 ```
 8ca0a75a381df73427d8520e54e2545facfd15c46959c6c7aa3231ba33a68e86 AmazonTAM/v5.2.0/DTBiOSSDK.xcframework.zip
 ```
+
+**Ozone**
+
+v3.0.2:
+```
+8988462b95f10220626510ba0926ddc9166f2cf2bf4811636c575d1876a896b1 Ozone/v3.0.2/Ozone.xcframework.zip
+```
